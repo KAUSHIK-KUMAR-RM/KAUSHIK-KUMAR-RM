@@ -2,7 +2,7 @@
 ### Computer Science Engineering Student
 - Aspiring Software Developer
 - Currently learning : DSA
-- Linux and PC Building Enthusiast
+- Linux Enthusiast
 - Exploring Cloud platforms and AI tools
 - How to reach me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-kumar-rm)
