@@ -2,8 +2,8 @@
 ### Computer Science Engineering Student
 - Aspiring Software Developer
 - Currently learning : DSA
-- Linux Enthusiast
 - Exploring Cloud platforms and AI tools
+- I practice [Touch Typing](https://monkeytype.com/profile/kaushik0325kumar).
 - How to reach me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-kumar-rm)
 ## Coding Profiles
