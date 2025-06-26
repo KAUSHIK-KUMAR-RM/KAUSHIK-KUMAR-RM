@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm Kaushik Kumar R M
 ### Computer Science Engineering Student
 - Aspiring Software Developer
-- Currently learning : DSA
+- Currently learning : DSA and Backend Technologies
 - Exploring Cloud platforms and AI tools
 - I practice [Touch Typing](https://monkeytype.com/profile/kaushik0325kumar).
 - How to reach me  
