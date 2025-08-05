@@ -1,11 +1,11 @@
 ## 👋 Hey there, I'm Kaushik Kumar R M
-Computer Science Engineering Student
+***Computer Science Engineering Student***
 <img align="right" width="315" height="235" src="https://art.pixilart.com/54f27e7fbe3b520.png">
 
 - Aspiring Software Developer
 - Currently learning : DSA and Backend Technologies
 - Exploring Cloud platforms and AI tools
-- I practice [Touch Typing](https://monkeytype.com/profile/kaushik0325kumar).
+- I practice ***[Touch Typing](https://monkeytype.com/profile/kaushik0325kumar).***
 - How to reach me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaushik-kumar-rm)
 ## Tech Stack
