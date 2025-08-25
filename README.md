@@ -15,4 +15,4 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kaushik0325kumar)  
 [![Skillrack](https://img.shields.io/badge/Skillrack-5B3EC4?style=for-the-badge&logo=code&logoColor=white)](https://www.skillrack.com/faces/resume.xhtml?id=438720&key=d16223f27dca99bad2a30e4b63d069690c9ffbb9)
 --
-![LeetCode Stats](https://leetcard.jacoblin.cool/kaushik0325kumar?theme=dark&font=Ubuntu&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kaushik0325kumar?theme=dark&font=Baloo%202&ext=heatmap)
