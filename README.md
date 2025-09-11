@@ -1,5 +1,5 @@
 # 💫 About Me:
-- B.Eng. in Computer Science and Engineering @ RMKCET
+B.Eng. in Computer Science and Engineering @ RMKCET
 
 
 ## 🌐 Socials:
