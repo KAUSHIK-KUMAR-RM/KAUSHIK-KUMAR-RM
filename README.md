@@ -1,3 +1,7 @@
+<img width="388" height="112" alt="ascii-text-art" src="https://github.com/user-attachments/assets/fb2f50ee-d090-4024-bbe4-ecb8d87f6cc5" />
+
+
+
 # 💫 About Me:
 B.Eng. in Computer Science and Engineering @ RMKCET
 
