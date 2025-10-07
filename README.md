@@ -19,6 +19,6 @@ B.Eng. in Computer Science and Engineering @ RMKCET
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KAUSHIK-KUMAR-RM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=KAUSHIK-KUMAR-RM&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
