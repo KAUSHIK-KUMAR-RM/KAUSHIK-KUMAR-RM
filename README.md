@@ -18,4 +18,13 @@ B.Eng. in Computer Science and Engineering @ RMKCET
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KAUSHIK-KUMAR-RM&theme=dark)
 
+<details>
+  <summary><h3><b> Hacktoberfest 2025</b></h3></summary>
+
+  <br>
+
+  [![An image of @kaushikkumarrm's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaushikkumarrm)](https://holopin.io/@kaushikkumarrm)
+
+</details>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
