@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-B.Eng. in Computer Science and Engineering @ RMKCET
+### Super Contributor @ Hacktoberfest 2025 • CS Student @ RMKCET • Aspiring Software Developer
 
 
 ## 💻 Tech Stack:
